@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.723">
+    <testcase classname="A101 Website Test" name="Uçtan uca ödeme ekranına kadar Selenium’da" time="0.407">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given A101 resmi sitesine gidin.............................................undefined
+And Giyim--> Aksesuar--> Kadın İç Giyim-->Dizaltı Çorap bölümüne girin......skipped
+And Siyah filtre seçin......................................................skipped
+Then Açılan ürünün siyah olduğu doğrulayın..................................skipped
+When Siyah bir çorap seçip,Sepete ekle butonuna tıklayın....................skipped
+And Sepeti Görüntüle butonuna tıklayın......................................skipped
+And Sepeti Onayla butonuna tıklayın.........................................skipped
+And Üye olmadan devam et butonuna tıklayın..................................skipped
+And Email girin.............................................................skipped
+When Yeni adres oluştur tıklayın............................................skipped
+And Adres sayfası doldurulur................................................skipped
+And Kargo seçeneği seçin ve onaylayın.......................................skipped
+And Açılan ödeme ekranında siparişi tamamla butonuna tıklayın...............skipped
+Then sonra ödeme ekranı geldiğini doğrulayın................................skipped
+]]>
+        </failure>
+    </testcase>
+</testsuite>
